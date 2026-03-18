@@ -1,0 +1,13 @@
+Model: efficientnetv2_s
+Dataset: archive_quality_300  |  Val images: 110
+========================================
+Accuracy      : 0.8636
+F1 Score      : 0.8649
+ROC-AUC       : 0.9301
+Avg Precision : 0.9083
+Sensitivity   : 0.8727  (Recall / True Positive Rate)
+Specificity   : 0.8545  (True Negative Rate)
+========================================
+Confusion Matrix:
+  TP=48  FP=8
+  FN=7  TN=47

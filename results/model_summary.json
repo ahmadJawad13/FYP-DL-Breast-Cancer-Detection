@@ -1,0 +1,14 @@
+{
+  "convnext_small": {
+    "best_val_acc": 0.9454545454545454,
+    "time_min": 2.3645363171895344
+  },
+  "efficientnetv2_s": {
+    "best_val_acc": 0.9,
+    "time_min": 1.6317954858144124
+  },
+  "swin_small": {
+    "best_val_acc": 0.9545454545454546,
+    "time_min": 1.7924071073532104
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "ensemble_test_acc": 0.7,
+  "ensemble_test_f1": 0.7123287671232876,
+  "ensemble_test_auc": 0.770204081632653,
+  "n_models": 3,
+  "n_test": 70
+}

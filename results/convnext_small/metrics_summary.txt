@@ -1,0 +1,13 @@
+Model: convnext_small
+Dataset: archive_quality_300  |  Val images: 110
+========================================
+Accuracy      : 0.9455
+F1 Score      : 0.9444
+ROC-AUC       : 0.9810
+Avg Precision : 0.9822
+Sensitivity   : 0.9273  (Recall / True Positive Rate)
+Specificity   : 0.9636  (True Negative Rate)
+========================================
+Confusion Matrix:
+  TP=51  FP=2
+  FN=4  TN=53

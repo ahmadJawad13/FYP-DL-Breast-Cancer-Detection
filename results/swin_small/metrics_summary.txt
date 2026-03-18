@@ -1,0 +1,13 @@
+Model: swin_small
+Dataset: archive_quality_300  |  Val images: 110
+========================================
+Accuracy      : 0.9273
+F1 Score      : 0.9259
+ROC-AUC       : 0.9739
+Avg Precision : 0.9831
+Sensitivity   : 0.9091  (Recall / True Positive Rate)
+Specificity   : 0.9455  (True Negative Rate)
+========================================
+Confusion Matrix:
+  TP=50  FP=3
+  FN=5  TN=52
